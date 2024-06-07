@@ -2,7 +2,7 @@
 
 ## Présentation
 
-**Log Killer** est un outil développé par **Sharok** qui permet de supprimer tous les journaux d'événements Windows en une seule commande. Cet outil est particulièrement utile pour les administrateurs système qui souhaitent nettoyer rapidement les logs pour diverses raisons de maintenance ou de sécurité.
+**Log Killer** est un outil développé par **Sharok** qui permet de supprimer tous les journaux d'événements Windows en une seule commande. 
 
 ## Instructions
 
