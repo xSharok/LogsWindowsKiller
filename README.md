@@ -1,4 +1,4 @@
-# Log Killer
+# LogsWindowsKiller
 
 ## Présentation
 
